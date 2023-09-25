@@ -1,7 +1,7 @@
 # CS-TextReader
-1984\n
-winston 427\n
-even 299\n
-into 277\n
-party 273\n
-any 228
+1984 TextFile-
+winston 427-
+even 299-
+into 277-
+party 273-
+any 228-
